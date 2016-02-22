@@ -1,0 +1,45 @@
+
+
+---------------------------------
+
+Test 2:Numbers
+
+Input:3
+Input:I have 3 cats 3 dogs and 3 lions.
+
+Output: The Number "3" occurs 3 times in the provided input.
+
+Description- This will count the number of times a word appears in a string provided by the user.
+
+---------------------------------
+
+Test 3:Letters
+
+Input: A
+Input: A A A A A A A A A A
+
+Output: The Letter "A" appears 10 times in the provided input.
+
+Descriptiom- This will count the number of times a word appears in a string provided by the user.
+
+---------------------------------
+
+Test 4:Multiple Words
+
+Input:"Baseball"
+Input:"I love baseball so much, only because of how cute the baseball players are."
+
+Output: The word "baseball" appears 2 times in the provided input.
+
+Description- This will count the number of times a word will appear inside of a string.
+
+---------------------------------
+
+Test: 5:Special Characters
+
+Input:"!"
+Input:"You are just the absolute coolest!"
+
+Output: The character "!" appears 1 time in the input provided.
+
+Description- This will count the number of times a special character appears in the string provided by the user.
